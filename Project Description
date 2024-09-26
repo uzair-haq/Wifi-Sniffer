@@ -1,0 +1,16 @@
+Project Description: Wi-Fi Sniffer Tool
+
+The Wi-Fi Sniffer Tool is a Python-based application designed to monitor and capture Wi-Fi packets in real time. Using the powerful scapy library, the tool allows you to listen to network traffic, extract information about connected devices, and analyze the data flowing through your local wireless network.
+
+This project is intended for educational purposes, helping you understand network protocols and packet structures. Important: Always ensure you have permission to monitor the network you are analyzing, as unauthorized packet sniffing is illegal in many jurisdictions.
+Features
+
+    Capture Wi-Fi packets and display source and destination MAC addresses.
+    Simple command-line interface to start the sniffer.
+    Lightweight and easy to modify for additional functionality.
+
+pip install scapy
+
+
+You can find the source code in the repo
+
